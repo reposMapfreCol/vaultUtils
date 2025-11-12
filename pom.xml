@@ -9,11 +9,11 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>co.com.mapfre</groupId>
-	<artifactId>vaultUtils</artifactId>
-	<version>0.0.1</version>
+	<artifactId>vault-utils</artifactId>
+	<version>0.0.2</version>
 	<packaging>jar</packaging>
 	
-	<name>vaultUtils</name>
+	<name>vault-utils</name>
 	<description>Generación de secretos y llaves de forma segura</description>
 	
 	<url/>
