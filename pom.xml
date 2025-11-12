@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>co.com.mapfre</groupId>
 	<artifactId>vault-utils</artifactId>
-	<version>0.0.2</version>
+	<version>0.0.3</version>
 	<packaging>jar</packaging>
 	
 	<name>vault-utils</name>
